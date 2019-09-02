@@ -1,0 +1,84 @@
+2019/3/8 17:12:12
+Duplicate Cleaner Pro 4.1.1 installed.
+2019/3/8 17:12:27
+Duplicate Cleaner Pro: The license key asad is invalid. Please enter a valid License key.
+2019/3/8 17:13:43
+扫描设置: 常规模式
+- 相同内容 (MD5)
+
+已包含: *.*
+F:\
+E:\
+D:\
+C:\
+
+2019/3/8 17:14:06
+Hidden/System/Protected folder ignored: F:\$RECYCLE.BIN
+Hidden/System/Protected folder ignored: F:\System Volume Information
+Hidden/System/Protected folder ignored: E:\$RECYCLE.BIN
+Hidden/System/Protected folder ignored: E:\System Volume Information
+Hidden/System/Protected folder ignored: D:\$RECYCLE.BIN
+Hidden/System/Protected folder ignored: D:\MSOCache
+Hidden/System/Protected folder ignored: D:\System Volume Information
+Hidden/System/Protected folder ignored: C:\$Recycle.Bin
+Hidden/System/Protected folder ignored: C:\$SysReset
+Hidden/System/Protected folder ignored: C:\Documents and Settings
+Hidden/System/Protected folder ignored: C:\ProgramData
+Hidden/System/Protected folder ignored: C:\Recovery
+Hidden/System/Protected folder ignored: C:\System Volume Information
+Can't read folder: \\?\C:\PerfLogs\
+Hidden/System/Protected folder ignored: C:\Users\All Users
+Hidden/System/Protected folder ignored: C:\Users\Default
+Hidden/System/Protected folder ignored: C:\Users\Default User
+Hidden/System/Protected folder ignored: C:\Users\123456\AppData
+Hidden/System/Protected folder ignored: C:\Users\123456\Application Data
+Hidden/System/Protected folder ignored: C:\Users\123456\Cookies
+Hidden/System/Protected folder ignored: C:\Users\123456\Local Settings
+Hidden/System/Protected folder ignored: C:\Users\123456\My Documents
+Hidden/System/Protected folder ignored: C:\Users\123456\NetHood
+Hidden/System/Protected folder ignored: C:\Users\123456\PrintHood
+Hidden/System/Protected folder ignored: C:\Users\123456\Recent
+Hidden/System/Protected folder ignored: C:\Users\123456\SendTo
+Hidden/System/Protected folder ignored: C:\Users\123456\Templates
+Hidden/System/Protected folder ignored: C:\Users\123456\「开始」菜单
+Hidden/System/Protected folder ignored: C:\Users\Dell\AppData
+Hidden/System/Protected folder ignored: C:\Users\Dell\Application Data
+Hidden/System/Protected folder ignored: C:\Users\Dell\Cookies
+Hidden/System/Protected folder ignored: C:\Users\Dell\Local Settings
+Hidden/System/Protected folder ignored: C:\Users\Dell\MicrosoftEdgeBackups
+Hidden/System/Protected folder ignored: C:\Users\Dell\My Documents
+Hidden/System/Protected folder ignored: C:\Users\Dell\NetHood
+Hidden/System/Protected folder ignored: C:\Users\Dell\PrintHood
+Hidden/System/Protected folder ignored: C:\Users\Dell\Recent
+Hidden/System/Protected folder ignored: C:\Users\Dell\SendTo
+Hidden/System/Protected folder ignored: C:\Users\Dell\Templates
+Hidden/System/Protected folder ignored: C:\Users\Dell\「开始」菜单
+Can't read folder: \\?\C:\Users\MSSQLFDLauncher\
+Can't read folder: \\?\C:\Users\MSSQLSERVER\
+Can't read folder: \\?\C:\Users\MSSQLServerOLAPService\
+Hidden/System/Protected folder ignored: C:\Users\Public\AccountPictures
+Hidden/System/Protected folder ignored: C:\Users\Public\Desktop
+Hidden/System/Protected folder ignored: C:\Users\Public\Libraries
+Can't read folder: \\?\C:\Users\SQLSERVERAGENT\
+Can't read folder: \\?\C:\Users\SQLTELEMETRY\
+Hidden/System/Protected folder ignored: C:\Users\123456\Documents\My Music
+Hidden/System/Protected folder ignored: C:\Users\123456\Documents\My Pictures
+Hidden/System/Protected folder ignored: C:\Users\123456\Documents\My Videos
+Hidden/System/Protected folder ignored: C:\Users\Dell\Documents\My Music
+Hidden/System/Protected folder ignored: C:\Users\Dell\Documents\My Pictures
+Hidden/System/Protected folder ignored: C:\Users\Dell\Documents\My Videos
+Hidden/System/Protected folder ignored: C:\Users\Public\Documents\My Music
+Hidden/System/Protected folder ignored: C:\Users\Public\Documents\My Pictures
+Hidden/System/Protected folder ignored: C:\Users\Public\Documents\My Videos
+Hidden/System/Protected folder ignored: C:\Users\Dell\Documents\Tencent Files\All Users\QQ\Misc\com.tencent.qqvip\Fonts
+
+2019/3/8 17:25:09
+扫描完成
+总计耗时: 00:11:25
+共扫描 48423/48423 项文件 (467 GB)
+3345 组重复文件
+9473 项文件重复(374 MB)
+Hashes calculated: 32169
+Quick Hashes calculated: 3949
+Useful Quick Hashes: 32656
+
